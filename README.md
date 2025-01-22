@@ -5,6 +5,6 @@ Jusų vietovės platumai tinkamą planisferą pasirinkite pagal žemėlapį arba
 
 Lietuvos ribinės geografinės platumos: Šiaurėje – 56°27'N (į šiaurės vakarus nuo Aspariškių kaimo, Biržų raj.); Pietuose – 53°54'N (į pietryčius nuo Kabelių ir į pietus nuo Musteikos kaimų, Varėnos raj.). Kartoninei planisferai nereikia baterijos ir interneto ryšio, tačiau naudojant planisferą naktį labai pravečia raudonos šviesos žibintuvėlis.
 
-Planisferos sugeneruotos Python'o skriptais <https://github.com/zodiakas/planisphere_lt_v2>
+Planisferos yra sugeneruotos Python'o skriptais <https://github.com/zodiakas/planisphere_lt_v2>
 
 Skriptų kodą sukūrė Dominic Ford https://dcford.org.uk. Jis platinamas pagal „Gnu General Public License V3“.
