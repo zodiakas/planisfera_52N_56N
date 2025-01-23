@@ -1,5 +1,5 @@
 ### Sukamieji žvaigždėlapiai (planisferos) nuo 52N iki 56N platumos
-Čia pateikiami planisferos dalys, kurias galima naudoti norint pasigaminti kartoninį sukamojo žvaigždėlapio arba planisferos modelį lietuvių kalba, skirtą Lietuvos platumoms (nuo 52°N iki 56°N). 
+Čia pateikiamos planisferos dalys, kurias galima naudoti norint pasigaminti kartoninį sukamojo žvaigždėlapio arba planisferos modelį lietuvių kalba, skirtą Lietuvos platumoms (nuo 52°N iki 56°N). 
 
 Jusų vietovės platumai tinkamą planisferą pasirinkite pagal žemėlapį arba pagal pridedamą Lietuvos miestų geografinių koordinačių sąrašą.
 
